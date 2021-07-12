@@ -35,8 +35,8 @@
           <!-- Top Content -->
           <div class="col-6 col-md-9 col-lg-8">
             <div class="top-header-content">
-              <a href="#" data-toggle="tooltip" data-placement="bottom" title="28 Jackson Street, Chicago, 7788569 USA"><i class="fa fa-map-marker"></i> <span>28 Jackson Street, Chicago, 7788569 USA</span></a>
-              <a href="#" data-toggle="tooltip" data-placement="bottom" title="info.dento@gmail.com"><i class="fa fa-envelope"></i> <span>info.dento@gmail.com</span></a>
+              <a href="#" data-toggle="tooltip" data-placement="bottom" title="28 Jackson Street, Chicago, 7788569 USA"><i class="fa fa-map-marker"></i> <span>San Juan</span></a>
+              <a href="#" data-toggle="tooltip" data-placement="bottom" title="info.dento@gmail.com"><i class="fa fa-envelope"></i> <span>dentalcoes@gmail.com</span></a>
             </div>
           </div>
           <!-- Top Header Social Info -->
@@ -80,17 +80,17 @@
               <!-- Nav Start -->
               <div class="classynav">
                 <ul id="nav">
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="#">Pages</a>
+                  <li><a href="{{ url('home') }}">Home</a></li>
+                  <li><a href="#">Secciones</a>
                     <ul class="dropdown">
-                      <li><a href="index.blade.php">- Home</a></li>
-                      <li><a href="about.blade.php">- About Us</a></li>
-                      <li><a href="service.blade.php">- Service</a></li>
-                      <li><a href="pricing.blade.php">- Pricing</a></li>
-                      <li><a href="blog.blade.php">- Blog</a></li>
-                      <li><a href="blog-details.blade.php">- Blog Details</a></li>
-                      <li><a href="contact.blade.php">- Contact</a></li>
-                      <li><a href="#">- Dropdown</a>
+                      <li><a href="{{ url('home') }}">- Home</a></li>
+                      <li><a href="{{ url('about') }}">- Sobre Nosotros</a></li>
+                      <li><a href="{{ url('service') }}">- Servicios</a></li>
+                      <li><a href="{{ url('pricing') }}">- Precios</a></li>
+                     <!--  <li><a href="blog.blade.php">- Blog</a></li> -->
+                <!--       <li><a href="blog-details.blade.php">- Blog Details</a></li> -->
+                      <li><a href="{{ url('contact') }}">- Contactanos</a></li>
+                     <!--  <li><a href="#">- Dropdown</a>
                         <ul class="dropdown">
                           <li><a href="#">- Dropdown Item</a></li>
                           <li><a href="#">- Dropdown Item</a>
@@ -104,26 +104,26 @@
                           <li><a href="#">- Dropdown Item</a></li>
                           <li><a href="#">- Dropdown Item</a></li>
                         </ul>
-                      </li>
+                      </li> -->
                     </ul>
                   </li>
-                  <li><a href="about.blade.php">About</a></li>
-                  <li><a href="service.html">Service</a></li>
-                  <li><a href="pricing.html">Pricing</a></li>
-                  <li><a href="#">Blog</a>
-                    <ul class="dropdown">
+                  <li><a href="{{ url('about') }}">Sobre Nosotros</a></li>
+                  <li><a href="{{ url('service') }}">Servicios</a></li>
+                  <li><a href="{{ url('pricing') }}">Precios</a></li>
+                  <!-- <li><a href="#">Blog</a> -->
+                   <!--  <ul class="dropdown">
                       <li><a href="blog.html">- Blog</a></li>
                       <li><a href="blog-details.html">- Blog Details</a></li>
-                    </ul>
+                    </ul> -->
                   </li>
-                  <li><a href="./contact.html">Contact</a></li>
+                  <li><a href="{{ url('contact') }}">Contactanos</a></li>
                 </ul>
               </div>
               <!-- Nav End -->
             </div>
 
             <!-- Booking Now Button -->
-            <a href="#" class="btn dento-btn booking-btn">Booking Now</a>
+            <!-- <a href="#" class="btn dento-btn booking-btn">Booking Now</a> -->
           </nav>
         </div>
       </div>
@@ -142,9 +142,9 @@
             <div class="col-12">
               <!-- Welcome Text -->
               <div class="welcome-text text-center">
-                <h2 data-animation="fadeInUp" data-delay="100ms">We Believe Everyone Should Have Easy Access To Great Dental Care</h2>
-                <p data-animation="fadeInUp" data-delay="300ms">As a leading industry innovator, Dento is opening up exciting new opportunities for dental professionals, investors, employees & suppliers. Contact us to find out what we have to
-                  offer you.</p>
+                <h2 data-animation="fadeInUp" data-delay="100ms">Creemos que todos deberían tener fácil acceso a una excelente atención dental</h2>
+                <p data-animation="fadeInUp" data-delay="300ms">Como innovador líder en la industria, Dento está abriendo nuevas y emocionantes oportunidades para los profesionales de la odontología, inversores, empleados y proveedores. Contáctanos para saber qué tenemos que hacer
+                   ofrecerte.</p>
                 <div class="welcome-btn-group">
                   <a href="#" class="btn dento-btn mx-2" data-animation="fadeInUp" data-delay="500ms">Get Started</a>
                   <a href="#" class="btn dento-btn mx-2 active" data-animation="fadeInUp" data-delay="700ms">Contact Us</a>

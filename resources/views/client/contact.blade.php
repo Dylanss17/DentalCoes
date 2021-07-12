@@ -11,7 +11,7 @@
   <title>Dento - Dentist &amp; Medical HTML Template</title>
 
   <!-- Favicon -->
-  <link rel="icon" href="{{ url('/cliente/img/core-img/favicon.ico">
+  <link rel="icon" href="{{ url('/cliente/img/core-img/favicon.ico') }}">
 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="{{ url('/cliente/style.css') }}" >
