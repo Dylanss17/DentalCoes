@@ -499,17 +499,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
   </footer>
   <!-- ***** Footer Area End ***** -->
 
-  <!-- ******* All JS ******* -->
+    <!-- ******* All JS ******* -->
   <!-- jQuery js -->
-  <script src="js/jquery.min.js"></script>
+  <script src="{{ url('/cliente/js/jquery.min.js') }}"></script>
   <!-- Popper js -->
-  <script src="js/popper.min.js"></script>
+  <script src="{{ url('/cliente/js/popper.min.js') }}"></script>
   <!-- Bootstrap js -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="{{ url('/cliente/js/bootstrap.min.js') }}"></script>
   <!-- All js -->
-  <script src="js/dento.bundle.js"></script>
+  <script src="{{ url('/cliente/js/dento.bundle.js') }}"></script>
   <!-- Active js -->
-  <script src="js/default-assets/active.js"></script>
+  <script src="{{ url('/cliente/js/default-assets/active.js') }}"></script>
 
 </body>
 
