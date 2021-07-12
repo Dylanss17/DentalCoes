@@ -83,13 +83,13 @@
                   <li><a href="index.html">Home</a></li>
                   <li><a href="#">Pages</a>
                     <ul class="dropdown">
-                      <li><a href="index.html">- Home</a></li>
-                      <li><a href="about.html">- About Us</a></li>
-                      <li><a href="service.html">- Service</a></li>
-                      <li><a href="pricing.html">- Pricing</a></li>
-                      <li><a href="blog.html">- Blog</a></li>
-                      <li><a href="blog-details.html">- Blog Details</a></li>
-                      <li><a href="contact.html">- Contact</a></li>
+                      <li><a href="index.blade.php">- Home</a></li>
+                      <li><a href="about.blade.php">- About Us</a></li>
+                      <li><a href="service.blade.php">- Service</a></li>
+                      <li><a href="pricing.blade.php">- Pricing</a></li>
+                      <li><a href="blog.blade.php">- Blog</a></li>
+                      <li><a href="blog-details.blade.php">- Blog Details</a></li>
+                      <li><a href="contact.blade.php">- Contact</a></li>
                       <li><a href="#">- Dropdown</a>
                         <ul class="dropdown">
                           <li><a href="#">- Dropdown Item</a></li>
@@ -107,7 +107,7 @@
                       </li>
                     </ul>
                   </li>
-                  <li><a href="about.html">About</a></li>
+                  <li><a href="about.blade.php">About</a></li>
                   <li><a href="service.html">Service</a></li>
                   <li><a href="pricing.html">Pricing</a></li>
                   <li><a href="#">Blog</a>

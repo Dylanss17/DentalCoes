@@ -11,10 +11,10 @@
   <title>Dento - Dentist &amp; Medical HTML Template</title>
 
   <!-- Favicon -->
-  <link rel="icon" href="./img/core-img/favicon.ico">
+  <link rel="icon" href="{{ url('/cliente/img/core-img/favicon.ico">
 
   <!-- Core Stylesheet -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="{{ url('/cliente/style.css') }}" >
 
 </head>
 
@@ -221,13 +221,13 @@
   <!-- ***** Contact Area End ***** -->
 
   <!-- ***** Footer Area Start ***** -->
-  <footer class="footer-area bg-img bg-gradient-overlay" style="background-image: url(img/bg-img/3.jpg);">
+  <footer class="footer-area bg-img bg-gradient-overlay"style="background-image: url('{{ url('/cliente/imgbg-img/3.jpg') }}');">
     <div class="container">
       <div class="row">
         <!-- Single Footer Widget -->
         <div class="col-12 col-sm-6 col-lg-4">
           <div class="single-footer-widget">
-            <a href="./index.html" class="d-block mb-4"><img src="./img/core-img/logo.png" alt=""></a>
+            <a href="./index.html" class="d-block mb-4"><img src="{{ url('/cliente/img/core-img/logo.png') }}" alt=""></a>
             <p>Etiam sutor risus, dapibus act elefend katen, lacinia sitamet denim. Mauris sagittis kansa interdum dignissim.</p>
             <div class="footer-contact">
               <p><i class="icon_pin"></i> 28 Jackson Street, Chicago, 7788569 USA</p>
@@ -323,15 +323,15 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
   <!-- ******* All JS ******* -->
   <!-- jQuery js -->
-  <script src="js/jquery.min.js"></script>
+  <script src="{{ url('/cliente/js/jquery.min.js') }}"></script>
   <!-- Popper js -->
-  <script src="js/popper.min.js"></script>
+  <script src="{{ url('/cliente/js/popper.min.js') }}"></script>
   <!-- Bootstrap js -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="{{ url('/cliente/js/bootstrap.min.js') }}"></script>
   <!-- All js -->
-  <script src="js/dento.bundle.js"></script>
+  <script src="{{ url('/cliente/js/dento.bundle.js') }}"></script>
   <!-- Active js -->
-  <script src="js/default-assets/active.js"></script>
+  <script src="{{ url('/cliente/js/default-assets/active.js') }}"></script>
 
 </body>
 
