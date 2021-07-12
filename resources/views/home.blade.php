@@ -19,7 +19,7 @@
   </div>
 
   @if (auth()->user()->role == 'admin')
-    <div class="col-xl-6 mb-5 mb-xl-0">
+  {{--   <div class="col-xl-6 mb-5 mb-xl-0">
       <div class="card shadow">
         <div class="card-header bg-transparent">
           <div class="row align-items-center">
@@ -50,7 +50,7 @@
           </form>
         </div>
       </div>
-    </div>
+    </div> --}}
     <div class="col-xl-6">
       <div class="card shadow">
         <div class="card-header bg-transparent">
