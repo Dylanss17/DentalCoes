@@ -12,8 +12,8 @@ Route::get('/home', 'HomeController@index')->name('home'); // {{ route('home') }
 Route::get('/index', 'ClientController@index')->name('index');
 Route::get('/about', 'ClientController@about')->name('about');
 Route::get('/contact', 'ClientController@contact')->name('contact');
-Route::get('/pricing', 'ClientController@index')->name('pricing');
-Route::get('/service', 'ClientController@index')->name('service');
+Route::get('/pricing', 'ClientController@pricing')->name('pricing');
+Route::get('/service', 'ClientController@service')->name('service');
 
 Route::middleware(['auth', 'admin'])->namespace('Admin')->group(function () {
     // Specialty
