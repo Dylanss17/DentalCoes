@@ -6,10 +6,10 @@
         <div class="col-12 col-sm-6 col-lg-4">
           <div class="single-footer-widget">
             <a href="./index.html" class="d-block mb-4"><img src="{{ url('/cliente/img/core-img/logo.png') }}" alt=""></a>
-            <p>Etiam sutor risus, dapibus act elefend katen, lacinia sitamet denim. Mauris sagittis kansa interdum dignissim.</p>
+            <p>Dental Card Consultorios Odontológicos, SAC es un equipo de profesionales competitivos que pone sus servicios a la población en general, garantizándole una atención con calidad y calidez.</p>
             <div class="footer-contact">
-              <p><i class="icon_pin"></i> 28 Jackson Street, Chicago, 7788569 USA</p>
-              <p><i class="icon_phone"></i> +84. 2252. 2250. 122</p>
+              <p><i class="icon_pin"></i>Avenida Andrés Guzmán, 720 San Juan De Miraflores, Cercado de Lima 15801</p>
+              <p><i class="icon_phone"></i> +51 914074521</p>
               <p><i class="icon_mail"></i> info.dento@gmail.com</p>
             </div>
           </div>
@@ -19,15 +19,15 @@
         <div class="col-12 col-sm-6 col-lg">
           <div class="single-footer-widget">
             <!-- Widget Title -->
-            <h5 class="widget-title">Opening Hours</h5>
+            <h5 class="widget-title">Horario de atención</h5>
 
             <!-- Opening Hours -->
             <ul class="opening-hours">
-              <li><span>Mon-Wed</span> <span>8.00-18.00</span></li>
-              <li><span>Thu-Fri</span> <span>8.00-17.00</span></li>
-              <li><span>Sat</span> <span>9.00-17.00</span></li>
-              <li><span>Sun</span> <span>10.00-17.00</span></li>
-              <li><span>Holiday</span> <span>Closed</span></li>
+              <li><span>Lunes-Viernes</span> <span>8.00am-18.00pm</span></li>
+         
+              <li><span>Sabados</span> <span>9.00am-17.00pm</span></li>
+              <li><span>Domingo</span> <span>10.00am-17.00pm</span></li>
+              <li><span>Feriados</span> <span>Cerrado</span></li>
             </ul>
           </div>
         </div>

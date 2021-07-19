@@ -32,7 +32,7 @@
       <div class="row">
         <div class="col-12">
           <div class="google-maps mb-100">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11956.9355465873!2d24.0768412544878!3d56.9550599906977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46eecfb0e5073ded%3A0x400cfcd68f2fe30!2z4Kaw4Ka_4KaX4Ka-LCDgprLgp43gpq_gpr7gpp_gp43gpq3gpr_gpoY!5e0!3m2!1sbn!2sbd!4v1543911160102"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d819.9300862403422!2d-76.96369803075828!3d-12.162232509675468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105b8f80bfb2233%3A0x9ecd161f208e444a!2sCoes!5e0!3m2!1ses-419!2spe!4v1626596777380!5m2!1ses-419!2spe"
               allowfullscreen></iframe>
           </div>
         </div>

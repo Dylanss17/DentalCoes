@@ -15,10 +15,16 @@
   <link rel="icon" href="{{ url('/cliente/img/core-img/favicon.ico') }}"> 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="{{ url('/cliente/style.css') }}" type="text/css">
+  <link rel="stylesheet" href="{{ url('/cliente/css/whatsapp.css') }}">
 
 </head>
 
 <body>
+
+<a href="https://api.whatsapp.com/send?phone=51961019219&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20DentalCoes?%20." class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
   <!-- Preloader -->
   <div id="preloader">
     <div class="preload-content">
