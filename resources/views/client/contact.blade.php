@@ -5,7 +5,7 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-12">
-          <h2 class="title">Contact</h2>
+          <h2 class="title">Contactanos</h2>
         </div>
       </div>
     </div>
@@ -17,7 +17,7 @@
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-              <li class="breadcrumb-item active" aria-current="page">Contact</li>
+              <li class="breadcrumb-item active" aria-current="page">Contactanos</li>
             </ol>
           </nav>
         </div>
@@ -42,14 +42,11 @@
         <!-- Contact Information -->
         <div class="col-12 col-md-4">
           <div class="contact-information">
-            <h5>Address</h5>
-            <p>28 Jackson Street, Chicago, 7788569 USA</p>
+            <h5>Dirección</h5>
+            <p>Avenida Andrés Guzmán, 720 San Juan De Miraflores, Cercado de Lima 15801</p>
 
-            <h5>Phone</h5>
+            <h5>Número</h5>
             <p>+84. 2252. 2250. 122</p>
-
-            <h5>Fax</h5>
-            <p>+84. 2252. 2250. 125</p>
 
             <h5>Email</h5>
             <p class="mb-0">info.dento@gmail.com</p>
@@ -61,23 +58,23 @@
           <div class="contact-form">
             <!-- Section Heading -->
             <div class="section-heading">
-              <h2>Get In Touch</h2>
+              <h2>Ponerse en contacto</h2>
               <div class="line"></div>
             </div>
             <!-- Form -->
             <form action="#" method="post">
               <div class="row">
                 <div class="col-lg-6">
-                  <input type="text" name="message-name" class="form-control mb-30" placeholder="Your Name">
+                  <input type="text" name="message-name" class="form-control mb-30" placeholder="Nombre completo">
                 </div>
                 <div class="col-lg-6">
-                  <input type="email" name="message-email" class="form-control mb-30" placeholder="Your Email">
+                  <input type="email" name="message-email" class="form-control mb-30" placeholder="Correo">
                 </div>
                 <div class="col-12">
-                  <textarea name="message" class="form-control mb-30" placeholder="Your Message"></textarea>
+                  <textarea name="message" class="form-control mb-30" placeholder="Su mensaje"></textarea>
                 </div>
                 <div class="col-12">
-                  <button type="submit" class="btn dento-btn">Send Message</button>
+                  <button type="submit" class="btn dento-btn">Enviar mensaje</button>
                 </div>
               </div>
             </form>

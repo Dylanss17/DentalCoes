@@ -31,8 +31,9 @@
             <div class="col-12">
               <!-- Welcome Text -->
               <div class="welcome-text text-center">
-                <h2 data-animation="fadeInDown" data-delay="100ms">We Believe Everyone Should Have Easy Access To Great Dental Care</h2>
-                <p data-animation="fadeInDown" data-delay="300ms">As a leading industry innovator, Dento is opening up exciting new opportunities for dental professionals, investors, employees & suppliers. Contact us to find out what we have to
+                <h2 data-animation="fadeInDown" data-delay="100ms">Creemos que todos deberían tener fácil acceso a una excelente atención dental</h2>
+                <p data-animation="fadeInDown" data-delay="300ms">Como innovador líder en la industria, Dento está abriendo nuevas y emocionantes oportunidades para los profesionales de la odontología, inversores, empleados y proveedores. Contáctanos para saber qué tenemos que hacer
+                   ofrecerte.
                   offer you.</p>
                 <div class="welcome-btn-group">
                   <a href="#" class="btn dento-btn mx-2" data-animation="fadeInDown" data-delay="500ms">Get Started</a>
@@ -65,12 +66,13 @@
               <h2>About Us</h2>
               <div class="line"></div>
             </div>
-            <p>Vestibulum condimentum, risus sedones honcus rutrum, salah lacus mollis zurna, nec finibusmi velit advertisis. Proin vitae odin quis magna aliquet laciniae. Etiam auctor, nisi vel. Pellentesque ultrices nisl quam iaculis, nec pulvinar
-              augue.</p>
+            <p>Dental Card Consultorios Odontológicos, SAC es un equipo de profesionales competitivos que pone sus servicios a la población en general, garantizándole una atención con calidad y calidez.
+
+Dental Card Consultorios Odontológicos, Es una empresa con 13 años de existencia , fue fundada el 13 mayo del 2000 y desde allí venimos trabajando en conjunto con un fin común, brindarle una atención de la más alta calidad, que lo haga sentir satisfecho. Nuestra mejor carta de presentación son nuestros pacientes, que día a día nos dan a conocer mediante sus recomendaciones, destacando de nuestra empresa que somos un staff de profesionales competentes, con especialidad y años de experiencia.</p>
 
             <!-- Single Skills Area -->
             <div class="single-skills-area mt-30">
-              <h6>Experience Dentist</h6>
+              <h6>Experiencia</h6>
               <div id="bar1" class="barfiller">
                 <span class="tip"></span>
                 <span class="fill" data-percentage="80"></span>
@@ -79,7 +81,7 @@
 
             <!-- Single Skills Area -->
             <div class="single-skills-area mt-30">
-              <h6>Modern Equipment</h6>
+              <h6>Equipos modernos</h6>
               <div id="bar2" class="barfiller">
                 <span class="tip"></span>
                 <span class="fill" data-percentage="65"></span>
@@ -88,7 +90,7 @@
 
             <!-- Single Skills Area -->
             <div class="single-skills-area mt-30">
-              <h6>Friendly Staff</h6>
+              <h6>Equipo</h6>
               <div id="bar3" class="barfiller">
                 <span class="tip"></span>
                 <span class="fill" data-percentage="85"></span>
@@ -113,8 +115,8 @@
         <div class="col-12 col-sm-6 col-lg-3">
           <div class="single-cta text-center mt-50 mb-100">
             <i class="icon_genius"></i>
-            <h2><span class="counter">20</span></h2>
-            <h5>Years Of Experience</h5>
+            <h2><span class="counter">10</span></h2>
+            <h5>Años de Experiencia</h5>
           </div>
         </div>
 
@@ -123,7 +125,7 @@
           <div class="single-cta text-center mt-50 mb-100">
             <i class="icon_heart_alt"></i>
             <h2><span class="counter">700</span>+</h2>
-            <h5>Happy Patients</h5>
+            <h5>Pacientes satisfechos</h5>
           </div>
         </div>
 
@@ -131,8 +133,8 @@
         <div class="col-12 col-sm-6 col-lg-3">
           <div class="single-cta text-center mt-50 mb-100">
             <i class="icon_book_alt"></i>
-            <h2><span class="counter">120</span></h2>
-            <h5>Certificate</h5>
+            <h2><span class="counter">58</span></h2>
+            <h5>Certificados</h5>
           </div>
         </div>
 
@@ -140,8 +142,8 @@
         <div class="col-12 col-sm-6 col-lg-3">
           <div class="single-cta text-center mt-50 mb-100">
             <i class="icon_id"></i>
-            <h2><span class="counter">40</span>+</h2>
-            <h5>Dentist</h5>
+            <h2><span class="counter">28</span>+</h2>
+            <h5>Dentistas</h5>
           </div>
         </div>
       </div>
@@ -158,7 +160,7 @@
           <div class="service-content mb-30">
             <!-- Section Heading -->
             <div class="section-heading white">
-              <h2>Our Services</h2>
+              <h2>Nuestros Servicios</h2>
               <div class="line"></div>
             </div>
 
@@ -167,7 +169,7 @@
               <div class="col-6 col-md-4">
                 <div class="single-service mb-70">
                   <img src="{{ url('/cliente/img/core-img/s1.png') }}"') }}" alt="">
-                  <h6>Teeth Whitening</h6>
+                  <h6>Blanqueamiento dental</h6>
                 </div>
               </div>
 
@@ -175,7 +177,7 @@
               <div class="col-6 col-md-4">
                 <div class="single-service mb-70">
                   <img src="{{ url('/cliente/img/core-img/s2.png') }}"') }}" alt="">
-                  <h6>Missing Teeth</h6>
+                  <h6>Endodoncia</h6>
                 </div>
               </div>
 
@@ -183,7 +185,7 @@
               <div class="col-6 col-md-4">
                 <div class="single-service mb-70">
                   <img src="{{ url('/cliente/img/core-img/s3.png') }}"') }}" alt="">
-                  <h6>Teeth Whitening</h6>
+                  <h6>Limpieza dental</h6>
                 </div>
               </div>
 
@@ -191,7 +193,7 @@
               <div class="col-6 col-md-4">
                 <div class="single-service mb-70">
                   <img src="{{ url('/cliente/img/core-img/s4.png') }}"" alt="">
-                  <h6>Cosmetic Dentistry</h6>
+                  <h6>Odontología cosmetica</h6>
                 </div>
               </div>
 
@@ -199,7 +201,7 @@
               <div class="col-6 col-md-4">
                 <div class="single-service mb-70">
                   <img src="{{ url('/cliente/img/core-img/s5.png') }}"" alt="">
-                  <h6>Examination</h6>
+                  <h6>Examinación</h6>
                 </div>
               </div>
 
@@ -207,7 +209,7 @@
               <div class="col-6 col-md-4">
                 <div class="single-service mb-70">
                   <img src="{{ url('/cliente/img/core-img/s1.png') }}"" alt="">
-                  <h6>Teeth Pain</h6>
+                  <h6>Dolor de dientes</h6>
                 </div>
               </div>
             </div>
@@ -234,7 +236,7 @@
         <!-- Section Heading -->
         <div class="col-12">
           <div class="section-heading text-center">
-            <h2>Pricing</h2>
+            <h2>Precios</h2>
             <div class="line"></div>
           </div>
         </div>
@@ -246,62 +248,39 @@
             <table class="table table-borderless mb-0">
               <thead>
                 <tr>
-                  <th scope="col">Service Names</th>
-                  <th scope="col">Stage</th>
-                  <th scope="col">Price</th>
+                  <th scope="col">Nombre de servicios</th>
+                  <th scope="col">Etapa</th>
+                  <th scope="col">Precio</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">Teeth Whitening Service at home</th>
-                  <td>1 times</td>
-                  <td>$115.00</td>
+                  <th scope="row">Servicio de blanqueamiento dental a domicilio</th>
+                  <td>1 Veces</td>
+                  <td>115.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Teeth Whitening Service at Dental Clinic</th>
-                  <td>1 times</td>
-                  <td>$100.00</td>
+                  <th scope="row">Servicio de Blanqueamiento Dental en Clínica Dental</th>
+                  <td>1 Veces</td>
+                  <td>100.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ceramic crowns and fillings Dental porcelain</th>
-                  <td>1 times</td>
-                  <td>$99.00</td>
+                  <th scope="row">Coronas y empastes de cerámica Porcelana dental</th>
+                  <td>1 Veces</td>
+                  <td>99.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Remove crowns, bridges Service</th>
-                  <td>1 tooth</td>
-                  <td>$50.00</td>
+                  <th scope="row">Retirar coronas, puentes Servicio</th>
+                  <td>1 diente</td>
+                  <td>50.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Covering the recession of the gums</th>
-                  <td>1 times</td>
-                  <td>$400.00</td>
+                  <th scope="row">Cubriendo la recesión de las encías</th>
+                  <td>1 Veces</td>
+                  <td>400.00</td>
                 </tr>
-                <tr>
-                  <th scope="row">Consultation, impressions and preparation of models</th>
-                  <td>1 times</td>
-                  <td>$35.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Removal of an old inlay, old crown</th>
-                  <td>1 times</td>
-                  <td>$99.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Overlay teeth whitening ( 2 arches)</th>
-                  <td>1 times</td>
-                  <td>$170.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Standard porcelain and zirconium crown on implant</th>
-                  <td>1 tooth</td>
-                  <td>$499.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Implantation of an implant (price depends on system used)</th>
-                  <td>1 tooth</td>
-                  <td>$600.00</td>
-                </tr>
+               
+               
               </tbody>
             </table>
           </div>
@@ -359,7 +338,7 @@
                 <div class="col-md-6">
                   <div class="form-group mb-30">
                     <select name="your-scheldule" class="form-control">
-                      <option value="Choose Your Scheldule">Choose Your Scheldule</option>
+                      <option value="Choose Your Scheldule">Escoge tu horario</option>
                       <option value="9 AM to 10 AM">9 AM to 10 AM</option>
                       <option value="11 AM to 12 PM">11 AM to 12 PM</option>
                       <option value="2 PM to 4 PM">2 PM to 4 PM</option>
@@ -370,7 +349,7 @@
                 <div class="col-md-6">
                   <div class="form-group mb-30">
                     <select name="your-time" class="form-control">
-                      <option value="Choose Your Time">Choose Your Scheldule</option>
+                      <option value="Choose Your Time">Escoge tu horario</option>
                       <option value="9 AM to 10 AM">9 AM to 10 AM</option>
                       <option value="11 AM to 12 PM">11 AM to 12 PM</option>
                       <option value="2 PM to 4 PM">2 PM to 4 PM</option>
@@ -402,7 +381,7 @@
         <!-- Section Heading -->
         <div class="col-12">
           <div class="section-heading text-center">
-            <h2>Our Dentist</h2>
+            <h2>Nuestros Dentitas</h2>
             <div class="line"></div>
           </div>
         </div>
@@ -491,10 +470,10 @@
               </div>
               <!-- Content -->
               <div class="testimonial-content">
-                <h5>“I'd been avoiding the dentist for years due to bad experiences. A reminder SMS is sent the working day beforehand. I also had a call confirming appointment. I have been a patient ever since. My dentist is very reassuring and
-                  very helpful. Excellent treatment and advice.”</h5>
+                <h5>“Había estado evitando al dentista durante años debido a malas experiencias. Se envía un SMS recordatorio el día laborable de antemano. También tuve una llamada para confirmar la cita. He sido paciente desde entonces. Mi dentista es muy tranquilizador y
+                   muy útil. Excelente trato y asesoramiento ”.</h5>
                 <h6>Arron Ramsey</h6>
-                <p>Dental Patient</p>
+                <p>Paciente</p>
               </div>
             </div>
 
@@ -506,10 +485,10 @@
               </div>
               <!-- Content -->
               <div class="testimonial-content">
-                <h5>“I'd been avoiding the dentist for years due to bad experiences. A reminder SMS is sent the working day beforehand. I also had a call confirming appointment. I have been a patient ever since. My dentist is very reassuring and
-                  very helpful. Excellent treatment and advice.”</h5>
+                <h5>“Había estado evitando al dentista durante años debido a malas experiencias. Se envía un SMS recordatorio el día laborable de antemano. También tuve una llamada para confirmar la cita. He sido paciente desde entonces. Mi dentista es muy tranquilizador y
+                   muy útil. Excelente trato y asesoramiento ”.</h5>
                 <h6>Arron Ramsey</h6>
-                <p>Dental Patient</p>
+                <p>Paciente</p>
               </div>
             </div>
 
@@ -521,10 +500,10 @@
               </div>
               <!-- Content -->
               <div class="testimonial-content">
-                <h5>“I'd been avoiding the dentist for years due to bad experiences. A reminder SMS is sent the working day beforehand. I also had a call confirming appointment. I have been a patient ever since. My dentist is very reassuring and
-                  very helpful. Excellent treatment and advice.”</h5>
+                <h5>“Había estado evitando al dentista durante años debido a malas experiencias. Se envía un SMS recordatorio el día laborable de antemano. También tuve una llamada para confirmar la cita. He sido paciente desde entonces. Mi dentista es muy tranquilizador y
+                   muy útil. Excelente trato y asesoramiento ”.</h5>
                 <h6>Arron Ramsey</h6>
-                <p>Dental Patient</p>
+                <p>Paciente</p>
               </div>
             </div>
           </div>
@@ -534,76 +513,6 @@
   </section>
   <!-- ***** Testimonials Area End ***** -->
 
-  <!-- ***** Blog Area Start ***** -->
-  <section class="dento-blog-area section-padding-100-0 clearfix">
-    <div class="container">
-      <div class="row">
-        <!-- Section Heading -->
-        <div class="col-12">
-          <div class="section-heading text-center">
-            <h2>The Latest News</h2>
-            <div class="line"></div>
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <!-- Single Blog Item -->
-        <div class="col-12 col-md-6 col-lg-4">
-          <div class="single-blog-item mb-100">
-            <a href="./blog-details.html">
-              <img src="{{ url('/cliente/img/bg-img/4.jpg') }}" alt="">
-            </a>
-            <!-- Blog Content -->
-            <div class="blog-content">
-              <a href="./blog-details.html" class="post-title">How your mouth bacteria can harm your lungs</a>
-              <p>Donec tempor, lorem et euismod eleifend, est lectus laoreet ante, sed accusan justo diam ...</p>
-              <div class="post-meta">
-                <a href="#"><i class="icon_clock_alt"></i> 28 Sep 2018</a>
-                <a href="#"><i class="icon_chat_alt"></i> 3 Comments</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Single Blog Item -->
-        <div class="col-12 col-md-6 col-lg-4">
-          <div class="single-blog-item mb-100">
-            <a href="./blog-details.html">
-              <img src="{{ url('/cliente/img/bg-img/5.jpg') }}" alt="">
-            </a>
-            <!-- Blog Content -->
-            <div class="blog-content">
-              <a href="./blog-details.html" class="post-title">What is the best kind of toothpaste to use?</a>
-              <p>Donec tempor, lorem et euismod eleifend, est lectus laoreet ante, sed accusan justo diam ...</p>
-              <div class="post-meta">
-                <a href="#"><i class="icon_clock_alt"></i> 28 Sep 2018</a>
-                <a href="#"><i class="icon_chat_alt"></i> 3 Comments</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Single Blog Item -->
-        <div class="col-12 col-md-6 col-lg-4">
-          <div class="single-blog-item mb-100">
-            <a href="./blog-details.html">
-              <img src="{{ url('/cliente/img/bg-img/6.jpg') }}" alt="">
-            </a>
-            <!-- Blog Content -->
-            <div class="blog-content">
-              <a href="./blog-details.html" class="post-title">Why you should avoid sipping your drinks</a>
-              <p>Donec tempor, lorem et euismod eleifend, est lectus laoreet ante, sed accusan justo diam ...</p>
-              <div class="post-meta">
-                <a href="#"><i class="icon_clock_alt"></i> 28 Sep 2018</a>
-                <a href="#"><i class="icon_chat_alt"></i> 3 Comments</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- ***** Blog Area End ***** -->
+  
 
   @include('layouts.footerclient')

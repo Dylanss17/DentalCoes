@@ -5,7 +5,7 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-12">
-          <h2 class="title">Our Pricing</h2>
+          <h2 class="title">Precios</h2>
         </div>
       </div>
     </div>
@@ -17,7 +17,7 @@
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-              <li class="breadcrumb-item active" aria-current="page">Our Pricing</li>
+              <li class="breadcrumb-item active" aria-current="page">Nuestros Precios</li>
             </ol>
           </nav>
         </div>
@@ -35,121 +35,36 @@
             <table class="table table-borderless mb-0">
               <thead>
                 <tr>
-                  <th scope="col">Service Names</th>
-                  <th scope="col">Stage</th>
-                  <th scope="col">Price</th>
+                  <th scope="col">Nombre de servicios</th>
+                  <th scope="col">Etapa</th>
+                  <th scope="col">Precio</th>
                 </tr>
               </thead>
               <tbody>
-                <tr>
-                  <th scope="row">Teeth Whitening Service at home</th>
-                  <td>1 times</td>
-                  <td>$115.00</td>
+              <tr>
+                  <th scope="row">Servicio de blanqueamiento dental a domicilio</th>
+                  <td>1 Veces</td>
+                  <td>115.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Teeth Whitening Service at Dental Clinic</th>
-                  <td>1 times</td>
-                  <td>$100.00</td>
+                  <th scope="row">Servicio de Blanqueamiento Dental en Clínica Dental</th>
+                  <td>1 Veces</td>
+                  <td>100.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Ceramic crowns and fillings Dental porcelain</th>
-                  <td>1 times</td>
-                  <td>$99.00</td>
+                  <th scope="row">Coronas y empastes de cerámica Porcelana dental</th>
+                  <td>1 Veces</td>
+                  <td>99.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Remove crowns, bridges Service</th>
-                  <td>1 tooth</td>
-                  <td>$50.00</td>
+                  <th scope="row">Retirar coronas, puentes Servicio</th>
+                  <td>1 diente</td>
+                  <td>50.00</td>
                 </tr>
                 <tr>
-                  <th scope="row">Covering the recession of the gums</th>
-                  <td>1 times</td>
-                  <td>$400.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Consultation, impressions and preparation of models</th>
-                  <td>1 times</td>
-                  <td>$35.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Removal of an old inlay, old crown</th>
-                  <td>1 times</td>
-                  <td>$99.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Overlay teeth whitening ( 2 arches)</th>
-                  <td>1 times</td>
-                  <td>$170.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Standard porcelain and zirconium crown on implant</th>
-                  <td>1 tooth</td>
-                  <td>$499.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Implantation of an implant (price depends on system used)</th>
-                  <td>1 tooth</td>
-                  <td>$600.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Covering the recession of the gums</th>
-                  <td>1 times</td>
-                  <td>$400.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Consultation, impressions and preparation of models</th>
-                  <td>1 times</td>
-                  <td>$35.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Removal of an old inlay, old crown</th>
-                  <td>1 times</td>
-                  <td>$99.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Overlay teeth whitening ( 2 arches)</th>
-                  <td>1 times</td>
-                  <td>$170.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Standard porcelain and zirconium crown on implant</th>
-                  <td>1 tooth</td>
-                  <td>$499.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Implantation of an implant (price depends on system used)</th>
-                  <td>1 tooth</td>
-                  <td>$600.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Covering the recession of the gums</th>
-                  <td>1 times</td>
-                  <td>$400.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Consultation, impressions and preparation of models</th>
-                  <td>1 times</td>
-                  <td>$35.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Removal of an old inlay, old crown</th>
-                  <td>1 times</td>
-                  <td>$99.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Overlay teeth whitening ( 2 arches)</th>
-                  <td>1 times</td>
-                  <td>$170.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Standard porcelain and zirconium crown on implant</th>
-                  <td>1 tooth</td>
-                  <td>$499.00</td>
-                </tr>
-                <tr>
-                  <th scope="row">Implantation of an implant (price depends on system used)</th>
-                  <td>1 tooth</td>
-                  <td>$600.00</td>
+                  <th scope="row">Cubriendo la recesión de las encías</th>
+                  <td>1 Veces</td>
+                  <td>400.00</td>
                 </tr>
               </tbody>
             </table>
